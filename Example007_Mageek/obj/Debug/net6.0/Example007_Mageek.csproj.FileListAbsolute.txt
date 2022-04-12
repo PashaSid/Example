@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\example\Example007_Mageek\bin\Debug\net6.0\Example007_Mageek.exe
+C:\Users\Админ\Desktop\example\Example007_Mageek\bin\Debug\net6.0\Example007_Mageek.deps.json
+C:\Users\Админ\Desktop\example\Example007_Mageek\bin\Debug\net6.0\Example007_Mageek.runtimeconfig.json
+C:\Users\Админ\Desktop\example\Example007_Mageek\bin\Debug\net6.0\Example007_Mageek.dll
+C:\Users\Админ\Desktop\example\Example007_Mageek\bin\Debug\net6.0\Example007_Mageek.pdb
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.AssemblyInfo.cs
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.dll
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\refint\Example007_Mageek.dll
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.pdb
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\Example007_Mageek.genruntimeconfig.cache
+C:\Users\Админ\Desktop\example\Example007_Mageek\obj\Debug\net6.0\ref\Example007_Mageek.dll
