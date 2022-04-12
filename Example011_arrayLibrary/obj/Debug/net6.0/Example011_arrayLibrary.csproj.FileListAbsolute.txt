@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\bin\Debug\net6.0\Example011_arrayLibrary.exe
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\bin\Debug\net6.0\Example011_arrayLibrary.deps.json
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\bin\Debug\net6.0\Example011_arrayLibrary.runtimeconfig.json
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\bin\Debug\net6.0\Example011_arrayLibrary.dll
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\bin\Debug\net6.0\Example011_arrayLibrary.pdb
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.AssemblyInfo.cs
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.dll
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\refint\Example011_arrayLibrary.dll
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.pdb
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\Example011_arrayLibrary.genruntimeconfig.cache
+C:\Users\Админ\Desktop\example\Example011_arrayLibrary\obj\Debug\net6.0\ref\Example011_arrayLibrary.dll
